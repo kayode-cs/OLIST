@@ -23,6 +23,8 @@ This project analyzes Olist's online marketplace operations — focusing on sale
 
 •	Tableau (for dashboarding)
 
+• SQL (Master Table)
+
 •	CSV Dataset (olist_data_cleaned.csv)
 
 •	Excel (initial quality checks)
