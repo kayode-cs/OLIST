@@ -11,8 +11,11 @@ This project analyzes Olist's online marketplace operations — focusing on sale
 
 ## **📊 Key Insights**
 •	Analyze key metrics (sales growth, delivery time, freight cost)
+
 •	Identify top-performing sellers and product categories
+
 •	Understand delivery delays and approval speeds
+
 •	Develop an interactive dashboard to visualize insights
 
 ## **📸 Dashboard Preview**
